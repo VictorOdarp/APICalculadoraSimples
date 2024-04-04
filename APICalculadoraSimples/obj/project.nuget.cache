@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbY+DYPm4Ah2M6BG5O++bNqlKyjMymtURT1WwbZzMX27rlv0NJjD38D15jNcvV0+y7RvsFI+aZlvnnl9AmCzNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victo\\Desktop\\ASP.NET CORE CURSO\\APICalculadoraSimples\\APICalculadoraSimples\\APICalculadoraSimples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\Victo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Victo\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Victo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Victo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Victo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Victo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
